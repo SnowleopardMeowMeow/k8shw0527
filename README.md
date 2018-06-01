@@ -1,6 +1,13 @@
 # k8shw0527
 0527K8S作業
 
+
+Container Images:
+https://hub.docker.com/r/snowleopardmeowmeow/0527hw-nginx-image/
+
+
+執行建立:
+
 *  建立 pod-1
 ``` bash
 $ kubectl create -f pod-1.yaml
